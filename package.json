@@ -1,0 +1,23 @@
+{
+  "name": "smsvote",
+  "version": "1.0.0",
+  "description": "SMS Vote Network Crowdsale",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+    "truffle": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "abdullah aslan",
+  "license": "MIT"
+}
+
